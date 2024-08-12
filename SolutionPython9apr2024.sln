@@ -11,6 +11,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication3", "Pytho
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication4", "PythonApplication4\PythonApplication4.pyproj", "{16BB308B-C98D-40E1-A55B-58F1D231D2CD}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication5", "PythonApplication5\PythonApplication5.pyproj", "{24832EC8-3990-488D-AB73-C9C99BEA658B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication6", "PythonApplication6\PythonApplication6.pyproj", "{8BF4C411-858C-4256-8114-6C3BD6579942}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{FECEC106-5F48-433D-9972-AD76FA5B1224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16BB308B-C98D-40E1-A55B-58F1D231D2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{16BB308B-C98D-40E1-A55B-58F1D231D2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24832EC8-3990-488D-AB73-C9C99BEA658B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24832EC8-3990-488D-AB73-C9C99BEA658B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF4C411-858C-4256-8114-6C3BD6579942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF4C411-858C-4256-8114-6C3BD6579942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
